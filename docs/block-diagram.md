@@ -1,4 +1,3 @@
-```markdown
 # TOV 시스템 Block Diagram
 
 ## 시스템 구성 한눈에 보기
@@ -25,3 +24,4 @@ flowchart LR
     ETH <-->|Ethernet| G5
     ETH <-->|Ethernet| CAM
     ETH <-->|Ethernet| RC
+```
